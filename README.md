@@ -46,7 +46,7 @@ Key insight: **Gold's minimal correlation with Bitcoin (0.130)** creates powerfu
 
 ## 📁 Repository Structure
 portfolio-optimization-mpt/
-├── portfolio_optimization.py  
-├── efficient_frontier.png    
-├── requirements.txt            
-└── README.md    
+├── portfolio_optimization.py
+├── efficient_frontier.png 
+├── requirements.txt        
+└── README.md
