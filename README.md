@@ -13,7 +13,7 @@ Implemented **Harry Markowitz's Modern Portfolio Theory (1952)** to optimize ass
 Key insight: **Gold's minimal correlation with Bitcoin (0.130)** creates powerful diversification benefits—critical for institutional portfolios seeking crisis resilience, directly relevant to Thailand's foreign reserve management framework.
 
 ## 📊 Key Results
-![Efficient Frontier](efficient_frontier.png)
+![Efficient Frontier](efficient-frontier.png)
 
 | Portfolio | Gold (%) | S&P 500 (%) | Bitcoin (%) | Return | Volatility | Sharpe Ratio |
 |-----------|----------|-------------|-------------|--------|------------|--------------|
